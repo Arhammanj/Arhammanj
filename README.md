@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arham Waseem</h1>
 <h3 align="center">A passionate Machine Learning engineer from Pakistan</h3>
 
-- 🔭 I’m currently working on **Re-book**
+- 🔭 I’m currently working on **Reinforcement learning**
 
 - 🌱 I’m currently learning **Scikit-learn ,Data science and Machine learning using python**
 
@@ -9,8 +9,7 @@
 
 - 🤝 I’m looking for help with **Article on Banking system security through Machine learning model**
 
-- 📝 I regularly write articles on [Machine learning](Machine learning)
-
+- 📝 I regularly write articles on Machine learning
 - 📫 How to reach me **ranaarhamwaseem@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
